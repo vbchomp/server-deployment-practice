@@ -1,7 +1,11 @@
 # server-deployment-practice
 
-** Title ** Server Deployment Practice 
-** Version ** 1.0.00
+## Server Deployment Practice 
+## Version 1.0.00
+## Deployed Sites
+
+[main branch](https://heatherb-server-deploy-prod.herokuapp.com/)
+[dev](https://heatherb-server-deploy-dev.herokuapp.com/)
 
 ## Author
 

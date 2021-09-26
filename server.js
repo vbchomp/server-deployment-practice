@@ -25,7 +25,7 @@ app.get('/bad', (req, res) => {
     next()
 });
 
-app.get('/data', (req, res) => {
+app.get('/data', stamper, (req, res) => {
     let outputObject = {
         message: "Give a dog a bone",
         result: "Knick knack paddy whack"
