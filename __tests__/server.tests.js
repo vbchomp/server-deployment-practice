@@ -35,4 +35,4 @@ describe('API Server', () => {
     expect(response.body.time).toBeDefined();
   })
 
-});.
+});
